@@ -1,3 +1,4 @@
+#špageti kôd
 from turtle import*
 pd()
 lt(90)
