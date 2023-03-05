@@ -1,3 +1,5 @@
+#crtanje stepenica for petljom
+
 #varijable
 visina=int(input('visina='))
 dubina=int(input('dubina='))
