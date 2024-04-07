@@ -9,9 +9,8 @@ b=int(input('unesi drugi broj:'))
 #provjera jesu li brojevi jednaki
 if a==b:
     print('brojevi',a,',',b, "jednaki")
+elif a<b:
+    print('broj',a,'je manji od',b)
 else:
-    if a<b:
-        print('broj',a,'je manji od',b)
-    else:
-        print('broj',a,'je veci od',b)
+    print('broj',a,'je veci od',b)
     
